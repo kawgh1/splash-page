@@ -188,7 +188,7 @@ line-height: 67px;
   width: 193px;
   height: 47.64px;
 left: 21px;
-top: 55.25px;
+top: 70.25px;
 }
 
 .title {
@@ -311,7 +311,7 @@ transform: scale(97%);
 /* Background Toggles */
 .background-toggles {
   position: absolute;
-  right: 50px;
+  right: 20px;
   top: 20px;
   display: block;
 }
