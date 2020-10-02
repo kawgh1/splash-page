@@ -20,3 +20,4 @@ function changeBackground(number) {
             break;
     }
 }
+
